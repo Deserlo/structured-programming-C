@@ -1,0 +1,140 @@
+*********************************************************************
+*                                        Check No 100               *
+*                                                                   *
+*         Sabre Corporation                                         *
+*         15790 West Henness Lane                                   *
+*         New Corio, New Mexico 65790                               *
+*                                                                   *
+*                                                                   *
+*         Pay to the Order of                                       *
+*                                                                   *
+*         Carl Davidson                                             *
+*                                                                   *
+*         The sum Two Hundred Fourty-One and 93/100 Dollars         *
+*                                                                   *
+*                                                                   *
+*         Reference: DVDSN100                                       *
+*                                                                   *
+*                                                                   *
+*********************************************************************
+*         Check No 100                                              *
+*                                                                   *
+*         Carl Davidson    Reg Pay:   332.50  Fed Tax:    47.62     *
+*         1345 14th St     Ovt Pay:     0.00  State Tax:   3.33     *
+*         Sacramento, Ca   Gross Pay: 332.50  SSI Tax:    24.61     *
+*         95811            Net Pay:   241.93  Tax Total:  75.57     *
+*                                                                   *
+*                                                                   *
+*********************************************************************
+*********************************************************************
+*                                        Check No 101               *
+*                                                                   *
+*         Sabre Corporation                                         *
+*         15790 West Henness Lane                                   *
+*         New Corio, New Mexico 65790                               *
+*                                                                   *
+*                                                                   *
+*         Pay to the Order of                                       *
+*                                                                   *
+*         John Doe                                                  *
+*                                                                   *
+*         The sum Six Hundred  and 36/100 Dollars                   *
+*                                                                   *
+*                                                                   *
+*         Reference: D101                                           *
+*                                                                   *
+*                                                                   *
+*********************************************************************
+*         Check No 101                                              *
+*                                                                   *
+*         John Doe         Reg Pay:   680.00  Fed Tax:   119.36     *
+*         1345 14th St     Ovt Pay:   165.75  State Tax:   8.36     *
+*         Sacramento, Ca   Gross Pay: 845.75  SSI Tax:    61.67     *
+*         95811            Net Pay:   606.36  Tax Total: 189.39     *
+*                                                                   *
+*                                                                   *
+*********************************************************************
+*********************************************************************
+*                                        Check No 102               *
+*                                                                   *
+*         Sabre Corporation                                         *
+*         15790 West Henness Lane                                   *
+*         New Corio, New Mexico 65790                               *
+*                                                                   *
+*                                                                   *
+*         Pay to the Order of                                       *
+*                                                                   *
+*         Louise Marion                                             *
+*                                                                   *
+*         The sum Three Hundred Twenty- and 4/100 Dollars           *
+*                                                                   *
+*                                                                   *
+*         Reference: MRN102                                         *
+*                                                                   *
+*                                                                   *
+*********************************************************************
+*         Check No 102                                              *
+*                                                                   *
+*         Louise Marion    Reg Pay:   520.00  Fed Tax:    63.00     *
+*         1345 14th St     Ovt Pay:     0.00  State Tax:   4.41     *
+*         Sacramento, Ca   Gross Pay: 520.00  SSI Tax:    32.55     *
+*         95811            Net Pay:   320.04  Tax Total:  99.96     *
+*                                                                   *
+*                                                                   *
+*********************************************************************
+*********************************************************************
+*                                        Check No 103               *
+*                                                                   *
+*         Sabre Corporation                                         *
+*         15790 West Henness Lane                                   *
+*         New Corio, New Mexico 65790                               *
+*                                                                   *
+*                                                                   *
+*         Pay to the Order of                                       *
+*                                                                   *
+*         Paula Prentiss                                            *
+*                                                                   *
+*         The sum Five Hundred Seventy-Three and 83/100 Dollars     *
+*                                                                   *
+*                                                                   *
+*         Reference: PRNTSS103                                      *
+*                                                                   *
+*                                                                   *
+*********************************************************************
+*         Check No 103                                              *
+*                                                                   *
+*         Paula Prentiss   Reg Pay:   630.00  Fed Tax:   112.96     *
+*         1345 14th St     Ovt Pay:   248.06  State Tax:   7.91     *
+*         Sacramento, Ca   Gross Pay: 878.06  SSI Tax:    58.36     *
+*         95811            Net Pay:   573.83  Tax Total: 179.23     *
+*                                                                   *
+*                                                                   *
+*********************************************************************
+*********************************************************************
+*                                        Check No 104               *
+*                                                                   *
+*         Sabre Corporation                                         *
+*         15790 West Henness Lane                                   *
+*         New Corio, New Mexico 65790                               *
+*                                                                   *
+*                                                                   *
+*         Pay to the Order of                                       *
+*                                                                   *
+*         Ed Whittle                                                *
+*                                                                   *
+*         The sum Two Hundred Twenty-Three and 46/100 Dollars       *
+*                                                                   *
+*                                                                   *
+*         Reference: WHTTL104                                       *
+*                                                                   *
+*                                                                   *
+*********************************************************************
+*         Check No 104                                              *
+*                                                                   *
+*         Ed Whittle       Reg Pay:   293.25  Fed Tax:    43.99     *
+*         1345 14th St     Ovt Pay:     0.00  State Tax:   3.08     *
+*         Sacramento, Ca   Gross Pay: 293.25  SSI Tax:    22.73     *
+*         95811            Net Pay:   223.46  Tax Total:  69.79     *
+*                                                                   *
+*                                                                   *
+*********************************************************************

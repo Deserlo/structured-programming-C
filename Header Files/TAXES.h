@@ -1,0 +1,4 @@
+
+#define FEDTAXRATE .15
+#define STATETAXRATE .07
+#define SSITAXRATE .0775
